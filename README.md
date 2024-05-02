@@ -1,14 +1,16 @@
 ###  Boas vindas ao meu perfil 💙
 
-*kemilly0x/kemilly0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kemilly
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo 📫
+
+- 00001125124180sp@al.educacao.sp.gov.br
+- 
+- kemilly0x
+
+![]
+![image](https://github.com/kemilly0x/kemilly0x/assets/168767376/dedb6eed-f08b-479e-acd9-2b204d4e4719)
